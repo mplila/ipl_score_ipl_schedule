@@ -1,0 +1,25 @@
+[{
+		"iplPlayerImage": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/ipl/210/177.png",
+		"iplPlayerName": "Andre Russell",
+		"iplPlayerRuns": "0",
+		"iplPlayerWickets": "0"
+	},
+	{
+		"iplPlayerImage": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/ipl/210/8540.png",
+		"iplPlayerName": "Venkatesh Iyer",
+		"iplPlayerRuns": "0",
+		"iplPlayerWickets": "0"
+	},
+	{
+		"iplPlayerImage": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/ipl/210/5432.png",
+		"iplPlayerName": "Varun Chakaravarthy",
+		"iplPlayerRuns": "0",
+		"iplPlayerWickets": "0"
+	},
+	{
+		"iplPlayerImage": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/ipl/210/203.png",
+		"iplPlayerName": "Sunil Narine",
+		"iplPlayerRuns": "0",
+		"iplPlayerWickets": "0"
+	}
+]
