@@ -1,0 +1,19 @@
+[{
+		"iplPlayerImage": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/ipl/210/164.png",
+		"iplPlayerName": "Virat Kohli",
+		"iplPlayerRuns": "0",
+		"iplPlayerWickets": "0"
+	},
+	{
+		"iplPlayerImage": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/ipl/210/282.png",
+		"iplPlayerName": "Glenn Maxwell",
+		"iplPlayerRuns": "0",
+		"iplPlayerWickets": "0"
+	},
+	{
+		"iplPlayerImage": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/ipl/210/3840.png",
+		"iplPlayerName": "Mohammed Siraj",
+		"iplPlayerRuns": "0",
+		"iplPlayerWickets": "0"
+	}
+]
