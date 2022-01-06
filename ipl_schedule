@@ -1,0 +1,181 @@
+[{
+		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/CSK/logos/Roundbig/CSKroundbig.png",
+		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/KKR/Logos/Roundbig/KKRroundbig.png",
+		"iplTeamNameOne": "Chennai Super Kings",
+		"iplTeamNameTwo": "Kolkata Knight Riders",
+		"iplMatchDate": "Friday 15 October, 2021",
+		"iplMatchVanue": "Chennai",
+		"iplMatchUrl": ""
+	},
+	{
+		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/KKR/Logos/Roundbig/KKRroundbig.png",
+		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/DC/Logos/Roundbig/DCroundbig.png",
+		"iplTeamNameOne": "Kolkata Knight Riders",
+		"iplTeamNameTwo": "Delhi Capitals",
+		"iplMatchDate": "Wednesday 13 October, 2021",
+		"iplMatchVanue": "Hyderabad",
+		"iplMatchUrl": ""
+	},
+	{
+		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/RCB/Logos/Roundbig/RCBroundbig.png",
+		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/KKR/Logos/Roundbig/KKRroundbig.png",
+		"iplTeamNameOne": "Royal Challengers Bangalore",
+		"iplTeamNameTwo": "Kolkata Knight Riders",
+		"iplMatchDate": "Monday 11 October, 2021",
+		"iplMatchVanue": "Ahmedabad",
+		"iplMatchUrl": ""
+	},
+	{
+		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/DC/Logos/Roundbig/DCroundbig.png",
+		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/CSK/logos/Roundbig/CSKroundbig.png",
+		"iplTeamNameOne": "Delhi Capitals",
+		"iplTeamNameTwo": "Chennai Super Kings",
+		"iplMatchDate": "Sunday 10 October, 2021",
+		"iplMatchVanue": "Delhi",
+		"iplMatchUrl": ""
+	},
+	{
+		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/RCB/Logos/Roundbig/RCBroundbig.png",
+		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/DC/Logos/Roundbig/DCroundbig.png",
+		"iplTeamNameOne": "Royal Challengers Bangalore",
+		"iplTeamNameTwo": "Delhi Capitals",
+		"iplMatchDate": "Friday 8 October, 2021",
+		"iplMatchVanue": "Mumbai",
+		"iplMatchUrl": ""
+	},
+	{
+		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/SRH/Logos/Roundbig/SRHroundbig.png",
+		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/MI/Logos/Roundbig/MIroundbig.png",
+		"iplTeamNameOne": "Sunrisers Hyderabad",
+		"iplTeamNameTwo": "Mumbai Indians",
+		"iplMatchDate": "Friday 8 October, 2021",
+		"iplMatchVanue": "Kolkata",
+		"iplMatchUrl": ""
+	},
+	{
+		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/KKR/Logos/Roundbig/KKRroundbig.png",
+		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/RR/Logos/Roundbig/RRroundbig.png",
+		"iplTeamNameOne": "Kolkata Knight Riders",
+		"iplTeamNameTwo": "Rajasthan Royals",
+		"iplMatchDate": "Thursday 7 October, 2021",
+		"iplMatchVanue": "Jaipur",
+		"iplMatchUrl": ""
+	},
+	{
+		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/CSK/logos/Roundbig/CSKroundbig.png",
+		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/PBKS/Logos/Roundbig/PBKSroundbig.png",
+		"iplTeamNameOne": "Chennai Super Kings",
+		"iplTeamNameTwo": "Punjab Kings",
+		"iplMatchDate": "Thursday 7 October, 2021",
+		"iplMatchVanue": "Bangalore",
+		"iplMatchUrl": ""
+	},
+	{
+		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/RCB/Logos/Roundbig/RCBroundbig.png",
+		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/SRH/Logos/Roundbig/SRHroundbig.png",
+		"iplTeamNameOne": "Royal Challengers Bangalore",
+		"iplTeamNameTwo": "Sunrisers Hyderabad",
+		"iplMatchDate": "Wednesday 6 October, 2021",
+		"iplMatchVanue": "Mumbai",
+		"iplMatchUrl": ""
+	},
+	{
+		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/RR/Logos/Roundbig/RRroundbig.png",
+		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/MI/Logos/Roundbig/MIroundbig.png",
+		"iplTeamNameOne": "Rajasthan Royals",
+		"iplTeamNameTwo": "Mumbai Indians",
+		"iplMatchDate": "Tuesday 5 October, 2021",
+		"iplMatchVanue": "Mohali",
+		"iplMatchUrl": ""
+	},
+	{
+		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/DC/Logos/Roundbig/DCroundbig.png",
+		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/CSK/logos/Roundbig/CSKroundbig.png",
+		"iplTeamNameOne": "Delhi Capitals",
+		"iplTeamNameTwo": "Chennai Super Kings",
+		"iplMatchDate": "Monday 4 October, 2021",
+		"iplMatchVanue": "Hyderabad",
+		"iplMatchUrl": ""
+	},
+	{
+		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/KKR/Logos/Roundbig/KKRroundbig.png",
+		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/SRH/Logos/Roundbig/SRHroundbig.png",
+		"iplTeamNameOne": "Kolkata Knight Riders",
+		"iplTeamNameTwo": "Sunrisers Hyderabad",
+		"iplMatchDate": "Sunday 3 October, 2021",
+		"iplMatchVanue": "Mumbai",
+		"iplMatchUrl": ""
+	},
+	{
+		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/RCB/Logos/Roundbig/RCBroundbig.png",
+		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/PBKS/Logos/Roundbig/PBKSroundbig.png",
+		"iplTeamNameOne": "Royal Challengers Bangalore",
+		"iplTeamNameTwo": "Punjab Kings",
+		"iplMatchDate": "Sunday 3 October, 2021",
+		"iplMatchVanue": "Delhi",
+		"iplMatchUrl": ""
+	},
+	{
+		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/RR/Logos/Roundbig/RRroundbig.png",
+		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/CSK/logos/Roundbig/CSKroundbig.png",
+		"iplTeamNameOne": "Rajasthan Royals",
+		"iplTeamNameTwo": "Chennai Super Kings",
+		"iplMatchDate": "Saturday 2 October, 2021",
+		"iplMatchVanue": "Chennai",
+		"iplMatchUrl": ""
+	},
+	{
+		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/MI/Logos/Roundbig/MIroundbig.png",
+		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/DC/Logos/Roundbig/DCroundbig.png",
+		"iplTeamNameOne": "Mumbai Indians",
+		"iplTeamNameTwo": "Delhi Capitals",
+		"iplMatchDate": "Saturday 2 October, 2021",
+		"iplMatchVanue": "Hyderabad",
+		"iplMatchUrl": ""
+	},
+	{
+		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/KKR/Logos/Roundbig/KKRroundbig.png",
+		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/PBKS/Logos/Roundbig/PBKSroundbig.png",
+		"iplTeamNameOne": "Kolkata Knight Riders",
+		"iplTeamNameTwo": "Punjab Kings",
+		"iplMatchDate": "Friday 1 October, 2021",
+		"iplMatchVanue": "Jaipur",
+		"iplMatchUrl": ""
+	},
+	{
+		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/SRH/Logos/Roundbig/SRHroundbig.png",
+		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/CSK/logos/Roundbig/CSKroundbig.png",
+		"iplTeamNameOne": "Sunrisers Hyderabad",
+		"iplTeamNameTwo": "Chennai Super Kings",
+		"iplMatchDate": "Thursday 30 September, 2021",
+		"iplMatchVanue": "Mumbai",
+		"iplMatchUrl": ""
+	},
+	{
+		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/RR/Logos/Roundbig/RRroundbig.png",
+		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/RCB/Logos/Roundbig/RCBroundbig.png",
+		"iplTeamNameOne": "Rajasthan Royals",
+		"iplTeamNameTwo": "Royal Challengers Bangalore",
+		"iplMatchDate": "Wednesday 29 September, 2021",
+		"iplMatchVanue": "Ahmedabad",
+		"iplMatchUrl": ""
+	},
+	{
+		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/MI/Logos/Roundbig/MIroundbig.png",
+		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/PBKS/Logos/Roundbig/PBKSroundbig.png",
+		"iplTeamNameOne": "Mumbai Indians",
+		"iplTeamNameTwo": "Punjab Kings",
+		"iplMatchDate": "Tuesday 28 September, 2021",
+		"iplMatchVanue": "Delhi",
+		"iplMatchUrl": ""
+	},
+	{
+		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/KKR/Logos/Roundbig/KKRroundbig.png",
+		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/DC/Logos/Roundbig/DCroundbig.png",
+		"iplTeamNameOne": "Kolkata Knight Riders",
+		"iplTeamNameTwo": "Delhi Capitals",
+		"iplMatchDate": "Tuesday 28 September, 2021",
+		"iplMatchVanue": "Bangalore",
+		"iplMatchUrl": ""
+	}
+]
