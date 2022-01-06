@@ -1,48 +1,48 @@
 [{
 		"iplTeamImage": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/SRH/Logos/Roundbig/SRHroundbig.png",
 		"iplTeamName": "Sunrisers Hyderabad",
-		"iplTeamPlayer": "",
+		"iplTeamPlayer": "https://raw.githubusercontent.com/contactbackup/ipl_score_ipl_schedule/main/Sunrisers_Hyderabad",
 		"iplWinners": "2016"
 	},
 	{
 		"iplTeamImage": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/RCB/Logos/Roundbig/RCBroundbig.png",
 		"iplTeamName": "Royal Challengers Bangalore",
-		"iplTeamPlayer": "",
+		"iplTeamPlayer": "https://raw.githubusercontent.com/contactbackup/ipl_score_ipl_schedule/main/Royal_Challengers_Bangalore",
 		"iplWinners": "0"
 	},
 	{
 		"iplTeamImage": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/RR/Logos/Roundbig/RRroundbig.png",
 		"iplTeamName": "Rajasthan Royals",
-		"iplTeamPlayer": "",
+		"iplTeamPlayer": "https://raw.githubusercontent.com/contactbackup/ipl_score_ipl_schedule/main/Rajasthan_Royals",
 		"iplWinners": "2008"
 	},
 	{
 		"iplTeamImage": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/PBKS/Logos/Roundbig/PBKSroundbig.png",
 		"iplTeamName": "Punjab Kings",
-		"iplTeamPlayer": "",
+		"iplTeamPlayer": "https://raw.githubusercontent.com/contactbackup/ipl_score_ipl_schedule/main/Punjab_Kings",
 		"iplWinners": "0"
 	},
 	{
 		"iplTeamImage": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/MI/Logos/Roundbig/MIroundbig.png",
 		"iplTeamName": "Mumbai Indians",
-		"iplTeamPlayer": "",
+		"iplTeamPlayer": "https://raw.githubusercontent.com/contactbackup/ipl_score_ipl_schedule/main/Mumbai_Indians",
 		"iplWinners": "2013, 2015, 2017, 2019, 2020"
 	}, {
 		"iplTeamImage": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/KKR/Logos/Roundbig/KKRroundbig.png",
 		"iplTeamName": "Kolkata Knight Riders",
-		"iplTeamPlayer": "",
+		"iplTeamPlayer": "https://raw.githubusercontent.com/contactbackup/ipl_score_ipl_schedule/main/Kolkata_Knight_Riders",
 		"iplWinners": "2012, 2014"
 	},
 	{
 		"iplTeamImage": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/CSK/logos/Roundbig/CSKroundbig.png",
 		"iplTeamName": "Chennai Super Kings",
-		"iplTeamPlayer": "",
+		"iplTeamPlayer": "https://raw.githubusercontent.com/contactbackup/ipl_score_ipl_schedule/main/Chennai_Super_Kings",
 		"iplWinners": "2010, 2011, 2018, 2021"
 	},
 	{
 		"iplTeamImage": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/DC/Logos/Roundbig/DCroundbig.png",
 		"iplTeamName": "Delhi Capitals",
-		"iplTeamPlayer": "",
+		"iplTeamPlayer": "https://raw.githubusercontent.com/contactbackup/ipl_score_ipl_schedule/main/Delhi_Capitals",
 		"iplWinners": "0"
 	}
 ]
