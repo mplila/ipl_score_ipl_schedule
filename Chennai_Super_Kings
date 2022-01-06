@@ -1,0 +1,25 @@
+[{
+		"iplPlayerImage": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/ipl/210/1.png",
+		"iplPlayerName": "MS Dhoni",
+		"iplPlayerRuns": "0",
+		"iplPlayerWickets": "0"
+	},
+	{
+		"iplPlayerImage": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/ipl/210/1735.png",
+		"iplPlayerName": "Moeen Ali",
+		"iplPlayerRuns": "0",
+		"iplPlayerWickets": "0"
+	},
+	{
+		"iplPlayerImage": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/ipl/210/9.png",
+		"iplPlayerName": "Ravindra Jadeja",
+		"iplPlayerRuns": "0",
+		"iplPlayerWickets": "0"
+	},
+	{
+		"iplPlayerImage": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/ipl/210/5443.png",
+		"iplPlayerName": "Ruturaj Gaikwad",
+		"iplPlayerRuns": "0",
+		"iplPlayerWickets": "0"
+	}
+]
