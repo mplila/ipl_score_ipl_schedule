@@ -1,48 +1,4 @@
-[{
-		"iplTeamNameOne": "Chennai Super Kings",
-		"iplTeamNameTwo": "Kolkata Knight Riders",
-		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/CSK/logos/Roundbig/CSKroundbig.png",
-		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/KKR/Logos/Roundbig/KKRroundbig.png",
-		"iplMatchDate": "Match-01 | 26 March",
-		"iplMatchVanue": "Wankhede Stadium, Mumbai",
-		"iplMatchUrl": "https://www.google.com/search?q=ipl+schedule&oq=ipl+&aqs=chrome.0.69i59l2j69i57j69i60l5.4585j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11rr5w3nk0;5;/m/03b_lm1;dt;fp;1;;"
-	},
-	{
-		"iplTeamNameOne": "Delhi Capitals",
-		"iplTeamNameTwo": "Mumbai Indians",
-		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/DC/Logos/Roundbig/DCroundbig.png",
-		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/MI/Logos/Roundbig/MIroundbig.png",
-		"iplMatchDate": "Match-02 | 27 March",
-		"iplMatchVanue": "Brabourne - CCI, Mumbai",
-		"iplMatchUrl": "https://www.google.com/search?q=ipl+schedule&oq=ipl+&aqs=chrome.0.69i59l2j69i57j69i60l5.4585j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11sqtdx432;5;/m/03b_lm1;dt;fp;1;;"
-	},
-	{
-		"iplTeamNameOne": "Punjab Kings",
-		"iplTeamNameTwo": "Royal Challengers Bangalore",
-		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/PBKS/Logos/Roundbig/PBKSroundbig.png",
-		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/RCB/Logos/Roundbig/RCBroundbig.png",
-		"iplMatchDate": "Match-03 | 27 March",
-		"iplMatchVanue": "DY Patil Stadium, Navi Mumbai",
-		"iplMatchUrl": "https://www.google.com/search?q=ipl+schedule&oq=ipl+&aqs=chrome.0.69i59l2j69i57j69i60l5.4585j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11rr5w91bc;5;/m/03b_lm1;dt;fp;1;;"
-	},
-	{
-		"iplTeamNameOne": "Gujarat Titans",
-		"iplTeamNameTwo": "Lucknow Super Giants",
-		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/GT/Logos/Roundbig/GTroundbig.png",
-		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/LSG/Logos/Roundbig/LSGroundbig.png",
-		"iplMatchDate": "Match-04 | 28 March",
-		"iplMatchVanue": "Wankhede Stadium, Mumbai",
-		"iplMatchUrl": "https://www.google.com/search?q=ipl+schedule&oq=ipl+&aqs=chrome.0.69i59l2j69i57j69i60l5.4585j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11p_5h553c;5;/m/03b_lm1;dt;fp;1;;"
-	},
-	{
-		"iplTeamNameOne": "Sunrisers Hyderabad",
-		"iplTeamNameTwo": "Rajasthan Royals",
-		"iplTeamImageOne": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/SRH/Logos/Roundbig/SRHroundbig.png",
-		"iplTeamImageTwo": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/ipl/RR/Logos/Roundbig/RRroundbig.png",
-		"iplMatchDate": "Match-05 | 29 March",
-		"iplMatchVanue": "MCA Stadium, Pune",
-		"iplMatchUrl": "https://www.google.com/search?q=ipl+schedule&oq=ipl+&aqs=chrome.0.69i59l2j69i57j69i60l5.4585j0j7&sourceid=chrome&ie=UTF-8#sie=m;/g/11p_5j3fpy;5;/m/03b_lm1;dt;fp;1;;"
-	},
+[
 	{
 		"iplTeamNameOne": "Royal Challengers Bangalore",
 		"iplTeamNameTwo": "Kolkata Knight Riders",
